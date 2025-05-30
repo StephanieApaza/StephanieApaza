@@ -2,7 +2,7 @@
 </p>
 
 <p align="center">
-  💼 Public Accountant | 📊 **Data Enthusiast** | 💻 Aspiring FrontEnd Developer <br>
+  💼 Public Accountant | 📊 Data Enthusiast | 💻 Aspiring FrontEnd Developer <br>
   Bridging financial expertise with technology and data-driven solutions.
 </p>
 
