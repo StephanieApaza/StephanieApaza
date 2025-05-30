@@ -2,7 +2,7 @@
 </p>
 
 <p align="center">
-  💼 Public Accountant | 📊 Data Enthusiast | 💻 Aspiring FrontEnd Developer <br>
+  💼 Public Accountant | 📊 **Data Enthusiast** | 💻 Aspiring FrontEnd Developer <br>
   Bridging financial expertise with technology and data-driven solutions.
 </p>
 
@@ -80,10 +80,6 @@ I believe in using technology to create real-world impact. My work is driven by 
   <a href="https://github.com/StephanieApaza">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanieApaza&layout=compact&langs_count=8&theme=tokyonight"/>
   </a>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=StephanieApaza&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
