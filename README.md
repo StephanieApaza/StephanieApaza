@@ -1,4 +1,4 @@
-<p align="center"><img src="https://imgur.com/a/91VST0E" alt="Stephanie's Github Banner" width=100% />
+<p align="center"><img src="https://i.imgur.com/8mrFpKF.png" alt="Stephanie's Github Banner" width=100% />
 </p>
 
 <p align="center">
