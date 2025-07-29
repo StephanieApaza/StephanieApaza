@@ -2,7 +2,7 @@
 </p>
 
 <p align="center">
-  💼 Public Accountant | 📊 Data Enthusiast | 💻 Aspiring FrontEnd Developer <br>
+  💼 Public Accountant | 📊 Data Enthusiast | 💻 Data Analyst <br>
   Bridging financial expertise with technology and data-driven solutions.
 </p>
 
@@ -12,7 +12,7 @@
 
 I’m a finance professional with hands-on experience in external audits, financial analysis, and compliance. My journey has taught me to think critically, manage complexity, and lead with purpose.
 
-Today, I’m transitioning into **Data Analytics and FrontEnd Development**, blending my financial background with technology to uncover insights, create smart solutions, and build interactive experiences.
+Today, I’m transitioning into **Data Analytics**, blending my financial background with technology to uncover insights, create smart solutions, and build interactive experiences.
 
 ---
 
