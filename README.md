@@ -2,7 +2,7 @@
 </p>
 
 <p align="center">
-  💼 Public Accountant | 📊 Data Enthusiast | 💻 Data Analyst <br>
+  💼 Public Accountant | 📊 Data Analyst <br>
   Bridging financial expertise with technology and data-driven solutions.
 </p>
 
