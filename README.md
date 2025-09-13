@@ -21,7 +21,6 @@ Today, I’m transitioning into **Data Analytics**, blending my financial backgr
 - Mastering **Python** for data analysis
 - Applying **SQL** and statistics to real-world data
 - Applying **Power BI** to create dynamic dashboards and data visualizations
-- Building **web interfaces** using HTML, CSS and JavaScript
 - Merging **financial logic with data science tools**
 - Strengthening leadership in tech-oriented environments
 
