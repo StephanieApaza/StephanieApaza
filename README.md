@@ -3,7 +3,7 @@
 
 <p align="center">
   💼 Public Accountant | 📊 Data Analyst <br>
-  Bridging financial expertise with technology and data-driven solutions.
+  Finance meets Data - turning insights into strategic value
 </p>
 
 ---
@@ -12,17 +12,28 @@
 
 I’m a finance professional with hands-on experience in external audits, financial analysis, and compliance. My journey has taught me to think critically, manage complexity, and lead with purpose.
 
-Today, I’m transitioning into **Data Analytics**, blending my financial background with technology to uncover insights, create smart solutions, and build interactive experiences.
+Today, I’m transitioning into **Data Analytics**, blending my financial background with technology to uncover insights, create smart solutions, and build interactive dashboards.
 
 ---
 
-### 💡Currently Focused On
+### 📂 Selected Projects
 
-- Mastering **Python** for data analysis
-- Applying **SQL** and statistics to real-world data
-- Applying **Power BI** to create dynamic dashboards and data visualizations
-- Merging **financial logic with data science tools**
-- Strengthening leadership in tech-oriented environments
+#### 🐍 Python
+- [Sales Methods Analysis](https://github.com/StephanieApaza/Product-Sales-Analysis) → Analyze the effectiveness of different sales methods for a new product line.
+- [Bank Marketing Campaign](https://github.com/StephanieApaza/Bank_marketing_campaign?tab=readme-ov-file#bank-marketing-campaign-analysis)  → Analyze the customer profiles and the impact of marketing campaigns on the acceptance of financial products.
+
+#### 🗄️ SQL  
+- [Evaluate a manufacturing process](https://github.com/StephanieApaza/Manufacturing_process_evaluation) → Analyze the manufacturing parts table and create an alert that flags whether the height of a product is within the control limits for each operator.
+- [Student Performance Analysis](https://github.com/StephanieApaza/Factors_student_performance_analysis) → Investigate the factors influencing student success and identify key drivers of high exam scores.
+
+#### 📊 Power BI  
+- [Competitor Sales Analysis](https://github.com/StephanieApaza/Competitor_sales_analysis) → Analyze the market share of the Manufacturing Industry and identify the top-performing products and segments.
+- [Ecommerce Analytics](https://github.com/StephanieApaza/Ecommerce_Online_Pet_Supply_Store) → Analyze the performance of an online pet supply store, to increase sales, optimize shipping costs, and improve profitability.
+
+
+#### 📑 Excel
+- [Revenue Growth Analysis](https://github.com/StephanieApaza/Net_revenue_management_HealthMax) → Identify growth opportunities through Net Revenue Management in the shampoo market.
+- [Customer Churn Analysis](https://github.com/StephanieApaza/Customer_churn_analysis) → Analyze customer churn for a telecommunications company, explore key drivers of customer attrition, and provide actionable recommendations.
 
 ---
 
