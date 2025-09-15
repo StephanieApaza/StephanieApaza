@@ -35,6 +35,8 @@ Today, I’m transitioning into **Data Analytics**, blending my financial backgr
 - [Revenue Growth Analysis](https://github.com/StephanieApaza/Net_revenue_management_HealthMax) → Identify growth opportunities through Net Revenue Management in the shampoo market.
 - [Customer Churn Analysis](https://github.com/StephanieApaza/Customer_churn_analysis) → Analyze customer churn for a telecommunications company, explore key drivers of customer attrition, and provide actionable recommendations.
 
+👉 Explore all my projects in my [Portfolio Repository](https://github.com/StephanieApaza/Portfolio/blob/main/README.md)
+
 ---
 
 ### 🛠 Tech Stack & Tools
