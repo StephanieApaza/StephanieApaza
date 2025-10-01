@@ -2,7 +2,7 @@
 </p>
 
 <p align="center">
-  💼 Public Accountant | 📊 Data Analyst <br>
+   📊 Data Analyst | 💼 Public Accountant (CPA)<br>
   Finance meets Data - turning insights into strategic value
 </p>
 
